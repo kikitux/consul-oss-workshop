@@ -10,7 +10,7 @@
 | 103 | ACL | link single | link multi |
 | 201 | connect | link single | link multi |
 
-### consul 101
+### consul 001
 
 - [ ] KV
 - [ ] services
